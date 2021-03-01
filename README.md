@@ -1,4 +1,4 @@
 # opencart-maintenance-3x
-Opencart Bakım Modu değiştirme özelliği.
+Opencart Maintenance Mode change feature.
 
-Konu hakkında detaylı link : https://www.kurtulusoz.com.tr/genel/opencart-bakim-modu-tasarimi/
+Detailed lin on the topic : https://www.kurtulusoz.com.tr/genel/opencart-bakim-modu-tasarimi/
